@@ -1,1 +1,3 @@
-git@github.com:PFMPauTena/wiki.git
+#WIKI PAGE
+
+(WIKI)[https://github.com/PFMPauTena/wiki/wiki]
